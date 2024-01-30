@@ -1,0 +1,14 @@
+#countLabel {
+    display: block;
+    text-align: center;
+    font-size: 60px;
+}
+#decreaseBtn {
+    font-size: 40px;
+}
+#resetBtn {
+    font-size: 40px;
+}
+#increaseBtn {
+    font-size: 40px;
+}
