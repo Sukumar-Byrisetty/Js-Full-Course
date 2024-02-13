@@ -49,7 +49,7 @@ const minFruit = fruits.reduce( (min, fruit) =>
                                 fruit.calories < min.calories ?
                                 fruit : min);
 
-console.log(maxFruit);
+console.log(maxFruit.name);
 console.log(minFruit);                                
 
 

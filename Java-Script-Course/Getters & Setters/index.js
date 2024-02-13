@@ -1,7 +1,7 @@
 // getter = special method that makes a property readable
 // setter = special method that makes a property writeable 
 
-// validate and modify a valuewhen reading/writing a property
+// validate and modify a value when reading/writing a property
 
 
 class Person {
@@ -51,7 +51,7 @@ class Person {
 
 }
 
-const person = new Person("Sukumar", "Byrisetty", "3");
+const person = new Person("Sukumar", "Byrisetty", "23");
 
 console.log(person.firstName);
 console.log(person.lastName);

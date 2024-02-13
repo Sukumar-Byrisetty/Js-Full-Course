@@ -1,6 +1,6 @@
-// static = keyword that dfines properties or methods that belong
+// static = keyword that defines properties or methods that belong
 //          to a class itself rather then the objects created
-//          from that class (class owns anything statc, not the objects)
+//          from that class (class owns anything static, not the objects)
 
 class User {
 
