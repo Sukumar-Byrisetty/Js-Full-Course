@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Sukumar",
+    "age": 23,
+    "isEmployed": false
+  },
+  {
+    "name": "Muni",
+    "age": 28,
+    "isEmployed": true
+  },
+  {
+    "name": "Ravi",
+    "age": 24,
+    "isEmployed": true
+  },
+  {
+    "name": "Chenchu",
+    "age": 23,
+    "isEmployed": false
+  }
+]
